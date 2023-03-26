@@ -37,4 +37,3 @@ jobs:
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 14
           plugin_lines: yes
-          repositories_affiliations: owner,collaborator

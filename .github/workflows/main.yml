@@ -42,7 +42,7 @@ jobs:
           plugin_rss_limit: 4
           plugin_rss_source: https://nickxu.me/rss2.xml
           plugin_notable: yes
-          plugin_notable_filter: stars>500
+          plugin_notable_filter: stars:>500
           plugin_notable_from: all
           plugin_notable_repositories: yes
           plugin_notable_types: commit
